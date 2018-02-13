@@ -1,6 +1,10 @@
+h2 {
+color: red;}
+
 header{
   text-align: center;
   background: url("http://finalhope.org/wp-content/uploads/2014/03/cat11.jpg");
   background size: cover;
   color: white;
+
 }
